@@ -10,12 +10,14 @@
     
     <h2>Recent Execution Summary</h2>
     <ul>
-        <li><strong>Changed files count:</strong> 9</li>
+        <li><strong>Changed files count:</strong> 11</li>
         <li><strong>Changed files:</strong> 
             <ul>
+                <li>src/components/layout/footer.tsx</li>
+                <li>src/components/layout/Footer.tsx</li>
+                <li>tmp/riverx-workspaces/ws_0645eb6d-4db/src/components/layout/Footer.tsx</li>
                 <li>src/pages/home.tsx</li>
                 <li>src/components/layout/AppLayout.tsx</li>
-                <li>src/components/layout/Footer.tsx</li>
                 <li>src/components/layout/Header.tsx</li>
                 <li>src/components/layout/Navbar.tsx</li>
                 <li>src/components/ui/navigation-menu.tsx</li>
@@ -26,15 +28,17 @@
         </li>
         <li><strong>Changes:</strong>
             <ul>
-                <li>Updated src/pages/home.tsx (chore: deterministic patch step 1/1 - src/pages/home.tsx)</li>
-                <li>Updated src/components/layout/AppLayout.tsx (chore: deterministic patch step 1/1 - src/components/layout/AppLayout.tsx)</li>
-                <li>Updated src/components/layout/Footer.tsx (chore: deterministic patch step 1/1 - src/components/layout/Footer.tsx)</li>
-                <li>Updated src/components/layout/Header.tsx (chore: deterministic patch step 1/1 - src/components/layout/Header.tsx)</li>
-                <li>Updated src/components/layout/Navbar.tsx (chore: deterministic patch step 1/1 - src/components/layout/Navbar.tsx)</li>
+                <li>Updated src/components/layout/footer.tsx (chore: deterministic patch step 1/1 - src/components/layout/footer.tsx)</li>
+                <li>Replaced src/components/layout/Footer.tsx (chore: deterministic bootstrap step 1/1 - src/components/layout/Footer.tsx)</li>
+                <li>Updated tmp/riverx-workspaces/ws_0645eb6d-4db/src/components/layout/Footer.tsx (chore: deterministic patch step 1/1 - tmp/riverx-workspaces/ws_0645eb6d-4db/src/components/layout/Footer.tsx)</li>
+                <li>Replaced src/pages/home.tsx (chore: deterministic bootstrap step 1/1 - src/pages/home.tsx)</li>
+                <li>Replaced src/components/layout/AppLayout.tsx (chore: deterministic bootstrap step 1/1 - src/components/layout/AppLayout.tsx)</li>
+                <li>Replaced src/components/layout/Header.tsx (chore: deterministic bootstrap step 1/1 - src/components/layout/Header.tsx)</li>
+                <li>Replaced src/components/layout/Navbar.tsx (chore: deterministic bootstrap step 1/1 - src/components/layout/Navbar.tsx)</li>
                 <li>Updated src/components/ui/navigation-menu.tsx (chore: deterministic patch step 1/1 - src/components/ui/navigation-menu.tsx)</li>
-                <li>Updated src/components/ui/sidebar.tsx (chore: deterministic patch step 1/1 - src/components/ui/sidebar.tsx)</li>
-                <li>Updated src/main.tsx (chore: deterministic patch step 1/1 - src/main.tsx)</li>
-                <li>Updated src/app/routes.tsx (chore: deterministic patch step 1/1 - src/app/routes.tsx)</li>
+                <li>Replaced src/components/ui/sidebar.tsx (chore: deterministic bootstrap step 1/1 - src/components/ui/sidebar.tsx)</li>
+                <li>Replaced src/main.tsx (chore: deterministic bootstrap step 1/1 - src/main.tsx)</li>
+                <li>Replaced src/app/routes.tsx (chore: deterministic bootstrap step 1/1 - src/app/routes.tsx)</li>
             </ul>
         </li>
     </ul>
